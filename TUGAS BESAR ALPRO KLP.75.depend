@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586490702 source:e:\algoritma dan pemrograman\login dan daftar\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
